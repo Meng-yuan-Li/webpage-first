@@ -1,0 +1,35 @@
+
+.title {
+    font-size: large;
+    color: firebrick;
+}
+.search {
+    font-size: 50%;
+}
+
+
+img {
+    
+    height: 248px;
+}
+
+.data {
+    font-size: small;
+}
+
+.br {
+    font-size: small;
+}
+
+h2 {
+    background-color: azure;
+}
+.main {
+    background-color: azure;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+}
+
+footer {
+    color: dodgerblue;
+}
